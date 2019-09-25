@@ -5,9 +5,9 @@ function takeANumber (namesInLine, newPersonName) {
   
   return `Welcome, ${newPersonName}. You are number ${nextNumber} in line.`
 }
-
+var i=0
 function takeANumber2(){
-  var i=0
+  
   i = i+1
   console.log(`Welcome Yoy are the number ${i}`)
 }
